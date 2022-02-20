@@ -1,7 +1,7 @@
 # to-do-list
 
 Neste Projeto criei um To Do List.<br>
-<a href=" https://aronnascimento1.github.io/to-do-list/"><img src="/assets/to-do-list.gif" width="600px" height="300px"></a><br>
+<a href="https://aronnascimento1.github.io/to-do-list/"><img src="/assets/to-do-list.gif" width="600px" height="300px"></a><br>
 clique<a href="https://aronnascimento1.github.io/to-do-list/"> aqui </a>para testar o To Do List
 
 _________
